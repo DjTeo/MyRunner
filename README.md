@@ -1,6 +1,5 @@
 # MyRunner
-An endelss runner game made with Unity for an assignment
 
-![Game Cover](https://github.com/DjTeo/MyRunner/blob/main/Cover.png?raw=true)
+An endelss runner game made with Unity for an assignment for my GameDev Master at University of Western Macedonia
 
-[![Gameplay Video](https://img.youtube.com/vi/ccc-fuvoivU/0.jpg)](https://youtu.be/ccc-fuvoivU)
+[![Gameplay Video](https://github.com/DjTeo/MyRunner/blob/main/Cover.png?raw=true)](https://youtu.be/ccc-fuvoivU)
